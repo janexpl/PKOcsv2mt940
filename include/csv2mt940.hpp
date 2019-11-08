@@ -5,6 +5,6 @@
 #include "CsvReader.hpp"
 
 using namespace std;
-void generateMt940(string inFile, string ouFile, string accNo, string docNo);
+bool generateMt940(string inFile, string ouFile, string accNo, string docNo);
 
 #endif //PKOCSV2MT940_CSV2MT940_HPP
