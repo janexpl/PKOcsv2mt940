@@ -1,0 +1,1189 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"CS",
+				"CsvRow.hpp\t/Users/janusz/Development/Projects/PKOcsv2mt940/include"
+			],
+			[
+				"iso",
+				"iostream\tstandard header"
+			],
+			[
+				"RE",
+				"RegistryManager\tstruct ·ʈ"
+			],
+			[
+				"js",
+				"encoding/json\t ·ʂ"
+			],
+			[
+				"Ce",
+				"CertificateManager\tstruct ·ʈ"
+			],
+			[
+				"Re",
+				"Registry\tstruct ·ʈ"
+			],
+			[
+				"R",
+				"Registry\tstruct ·ʈ"
+			],
+			[
+				"Cer",
+				"Certificate\tstruct ·ʈ"
+			],
+			[
+				"re",
+				"registrymgr\tRegistryManager ·ν"
+			],
+			[
+				"Reg",
+				"Registry\tstruct ·ʈ"
+			],
+			[
+				"company",
+				"companyid"
+			],
+			[
+				"fi",
+				"firstname"
+			],
+			[
+				"com",
+				"companyid〔variable〕"
+			],
+			[
+				"pa",
+				"payload"
+			],
+			[
+				"use",
+				"users〔variable〕"
+			],
+			[
+				"tele",
+				"telephoneno"
+			],
+			[
+				"v-list-",
+				"v-list-tile-content\tList Tile Content component - Vuetify"
+			],
+			[
+				"inde",
+				"indexOf"
+			],
+			[
+				"edi",
+				"editedIndex"
+			],
+			[
+				"naem",
+				"nameRules"
+			],
+			[
+				"name",
+				"nameRules"
+			],
+			[
+				"fetch",
+				"fetchUsers"
+			],
+			[
+				"dis",
+				"dispatch"
+			],
+			[
+				"Fo",
+				"FormValue\tfunc(key string) string ·ƒ"
+			],
+			[
+				"Prin",
+				"Println\tfunc(a ...interface{}) int, error ·ƒ"
+			],
+			[
+				"P",
+				"Println"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "PKOcsv2mt940.sublime-project",
+			"settings":
+			{
+				"buffer_size": 1631,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "╒══════════════════════════════════════╤══════════════════════════════════════════════════════════════════════════════╤═══════════════════════════╕\n│ CHECK                                │ VALUE                                                                        │ SUGGESTION/FIX            │\n╞══════════════════════════════════════╪══════════════════════════════════════════════════════════════════════════════╪═══════════════════════════╡\n│ cmake version                        │ 3.13.3                                                                       │                           │\n├──────────────────────────────────────┼──────────────────────────────────────────────────────────────────────────────┼───────────────────────────┤\n│ server mode                          │ True                                                                         │                           │\n├──────────────────────────────────────┼──────────────────────────────────────────────────────────────────────────────┼───────────────────────────┤\n│ project file                         │ /Users/janusz/Development/Projects/PKOcsv2mt940/PKOcsv2mt940.sublime-project │                           │\n├──────────────────────────────────────┼──────────────────────────────────────────────────────────────────────────────┼───────────────────────────┤\n│ cmake dictionary present in settings │ True                                                                         │                           │\n├──────────────────────────────────────┼──────────────────────────────────────────────────────────────────────────────┼───────────────────────────┤\n│ CMakeCache.txt file present          │ False                                                                        │ Run the Configure command │\n╘══════════════════════════════════════╧══════════════════════════════════════════════════════════════════════════════╧═══════════════════════════╛",
+			"settings":
+			{
+				"buffer_size": 1923,
+				"line_ending": "Unix",
+				"name": "CMakeBuilder Diagnosis",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "╒══════════════════════════════════════╤══════════════════════════════════════════════════════════════════════════════╤═════════════════════════════════════════════╕\n│ CHECK                                │ VALUE                                                                        │ SUGGESTION/FIX                              │\n╞══════════════════════════════════════╪══════════════════════════════════════════════════════════════════════════════╪═════════════════════════════════════════════╡\n│ cmake version                        │ 3.13.3                                                                       │                                             │\n├──────────────────────────────────────┼──────────────────────────────────────────────────────────────────────────────┼─────────────────────────────────────────────┤\n│ server mode                          │ True                                                                         │                                             │\n├──────────────────────────────────────┼──────────────────────────────────────────────────────────────────────────────┼─────────────────────────────────────────────┤\n│ project file                         │ /Users/janusz/Development/Projects/PKOcsv2mt940/PKOcsv2mt940.sublime-project │                                             │\n├──────────────────────────────────────┼──────────────────────────────────────────────────────────────────────────────┼─────────────────────────────────────────────┤\n│ cmake dictionary present in settings │ True                                                                         │                                             │\n├──────────────────────────────────────┼──────────────────────────────────────────────────────────────────────────────┼─────────────────────────────────────────────┤\n│ CMakeCache.txt file present          │ True                                                                         │ You may run the Write Build Targets command │\n╘══════════════════════════════════════╧══════════════════════════════════════════════════════════════════════════════╧═════════════════════════════════════════════╛",
+			"settings":
+			{
+				"buffer_size": 2157,
+				"line_ending": "Unix",
+				"name": "CMakeBuilder Diagnosis",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"file": "CMakeLists.txt",
+			"settings":
+			{
+				"buffer_size": 440,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "include/CsvReader.hpp",
+			"settings":
+			{
+				"buffer_size": 603,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "CsvReader.cpp",
+			"settings":
+			{
+				"buffer_size": 2648,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Mt940.cpp",
+			"settings":
+			{
+				"buffer_size": 4146,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "include/csvfields.hpp",
+			"settings":
+			{
+				"buffer_size": 614,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "csv2mt940.cpp",
+			"settings":
+			{
+				"buffer_size": 353,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "//\n// Created by Janusz Kwiatkowski on 17/10/2019.\n//\n\n#pragma once\n#include <iostream>\n#include <vector>\nclass CSVRow {\npublic:\n    CSVRow(char separator) : m_separator(separator) {};\n\n    std::string const &operator[](std::size_t index) const;\n    \n    std::size_t size() const;\n    void clear();\n    void readNextRow(std::istream &str);\n    ~CSVRow(){\n        m_data.clear();\n    }\nprivate:\n    std::vector<std::string> m_data;\n    char m_separator;\n};\n",
+			"file": "include/CsvRow.hpp",
+			"file_size": 456,
+			"file_write_time": 132176014280157894,
+			"settings":
+			{
+				"buffer_size": 456,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "╒══════════════════════════════════════╤══════════════════════════════════════════════════════════════════════════════╤════════════════════════════════════════════╕\n│ CHECK                                │ VALUE                                                                        │ SUGGESTION/FIX                             │\n╞══════════════════════════════════════╪══════════════════════════════════════════════════════════════════════════════╪════════════════════════════════════════════╡\n│ cmake version                        │ 3.13.3                                                                       │                                            │\n├──────────────────────────────────────┼──────────────────────────────────────────────────────────────────────────────┼────────────────────────────────────────────┤\n│ server mode                          │ True                                                                         │                                            │\n├──────────────────────────────────────┼──────────────────────────────────────────────────────────────────────────────┼────────────────────────────────────────────┤\n│ project file                         │ /Users/janusz/Development/Projects/PKOcsv2mt940/PKOcsv2mt940.sublime-project │                                            │\n├──────────────────────────────────────┼──────────────────────────────────────────────────────────────────────────────┼────────────────────────────────────────────┤\n│ cmake dictionary present in settings │ False                                                                        │ Create a cmake dictionary in your settings │\n╘══════════════════════════════════════╧══════════════════════════════════════════════════════════════════════════════╧════════════════════════════════════════════╛",
+			"settings":
+			{
+				"buffer_size": 1814,
+				"line_ending": "Unix",
+				"name": "CMakeBuilder Diagnosis",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "╒═══════════════╤═══════════╤═════════════════════════╕\n│ CHECK         │ VALUE     │ SUGGESTION/FIX          │\n╞═══════════════╪═══════════╪═════════════════════════╡\n│ cmake version │ 3.13.3    │                         │\n├───────────────┼───────────┼─────────────────────────┤\n│ server mode   │ True      │                         │\n├───────────────┼───────────┼─────────────────────────┤\n│ project file  │ NOT FOUND │ Open a .sublime-project │\n╘═══════════════╧═══════════╧═════════════════════════╛",
+			"settings":
+			{
+				"buffer_size": 503,
+				"line_ending": "Unix",
+				"name": "CMakeBuilder Diagnosis",
+				"read_only": true,
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					""
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Test"
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Install"
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Cross-Compile (Interactive)"
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Golang Build/Go.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					""
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Test"
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Install"
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Cross-Compile (Interactive)"
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/GoSublime/GoSublime.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/GoSublime/GoSublime.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package ",
+				"Package Control: Enable Package"
+			],
+			[
+				"package",
+				"Package Control: Enable Package"
+			],
+			[
+				"package con",
+				"Package Control: Enable Package"
+			],
+			[
+				"pack",
+				"Package Control: Disable Package"
+			],
+			[
+				"buil",
+				"Build With: PKOcsv2mt940 (OSX)"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"cma",
+				"CMakeBuilder: Configure"
+			],
+			[
+				"build",
+				"Build With: PKOcsv2mt940 (OSX) - clean"
+			],
+			[
+				"bui",
+				"CMakeBuilder: Diagnose (What Should I Do?)"
+			],
+			[
+				"c",
+				"CMakeBuilder: Diagnose (What Should I Do?)"
+			],
+			[
+				"packe",
+				"Package Control: Install Package"
+			],
+			[
+				"packav",
+				"Package Control: Remove Package"
+			],
+			[
+				"cmakebui",
+				"CMakeBuilder: Write Build Targets to Sublime Project File"
+			],
+			[
+				"cmak",
+				"CMakeBuilder: Diagnose (What Should I Do?)"
+			],
+			[
+				"cmakebu",
+				"CMakeBuilder: Diagnose (What Should I Do?)"
+			],
+			[
+				"cmake",
+				"CMakeBuilder: New Project"
+			],
+			[
+				"cmeka",
+				"Package Control: Remove Package"
+			],
+			[
+				"gos",
+				"GoSublime: Show Issues"
+			],
+			[
+				"packa",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"npm",
+				"npm: Run Script"
+			],
+			[
+				"package cont",
+				"Package Control: Install Package"
+			],
+			[
+				"package i",
+				"Package Control: Install Package"
+			],
+			[
+				"eslint",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"babel",
+				"SublimeCodeIntel: Enable Live Autocompletion for Current Language"
+			],
+			[
+				"type",
+				"TypeTodo: Show inconsistency"
+			],
+			[
+				"todo",
+				"TypeTodo: Find Todo"
+			],
+			[
+				"theme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"lintee",
+				"SublimeLinter: Show Line Errors"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"vuex",
+				"Snippet: Vue component mixins"
+			],
+			[
+				"package dis",
+				"Package Control: Discover Packages"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"THEE",
+				"UI: Select Theme"
+			],
+			[
+				"mater",
+				"Material Theme: Activate theme"
+			],
+			[
+				"term",
+				"Terminal: Open"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"dis",
+				"Package Control: Discover Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"breo",
+				"Browse Mode: Outline (Right)"
+			],
+			[
+				"brow",
+				"Browse Mode: Outline (Right)"
+			],
+			[
+				"Package Control: disc",
+				"Package Control: Discover Packages"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"t",
+				"Terminal: Open in project folder"
+			],
+			[
+				"Package Control: se",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/janusz/Development/Projects/PKOcsv2mt940",
+		"/Users/janusz/Development/Projects/PKOcsv2mt940/include"
+	],
+	"file_history":
+	[
+		"/Users/janusz/Development/Projects/csv2mt940/csv2mt940.sublime-project",
+		"/Volumes/janusz's home/Import_epp/file.mt940",
+		"/Users/janusz/go/src/github.com/janexpl/NewCerts/client/src/test.js",
+		"/Users/janusz/go/src/github.com/janexpl/CoursesList/assets/js/pickadate/legacy.js",
+		"/Users/janusz/go/src/github.com/janexpl/CoursesList/assets/css/style.css",
+		"/Users/janusz/go/src/github.com/janexpl/CoursesList/assets/js/app.js",
+		"/Users/janusz/go/src/github.com/janexpl/CoursesList/templates/users/login.gohtml",
+		"/Users/janusz/go/src/github.com/janexpl/CoursesList/controllers/courses.go",
+		"/Users/janusz/go/src/github.com/janexpl/CoursesList/controllers/certificates.go",
+		"/Users/janusz/go/src/github.com/janexpl/CoursesList/models/registry.go",
+		"/Users/janusz/go/src/github.com/janexpl/CoursesList/templates/header.gohtml",
+		"/Users/janusz/go/src/github.com/janexpl/CoursesList/templates/layout.gohtml",
+		"/Users/janusz/go/src/github.com/janexpl/CoursesList/templates/users/users.gohtml",
+		"/Users/janusz/go/src/github.com/janexpl/CoursesList/templates/journals/journals.gohtml",
+		"/Users/janusz/go/src/github.com/janexpl/CoursesList/models/certificate.go",
+		"/Users/janusz/go/src/github.com/janexpl/CoursesList/models/course.go",
+		"/Users/janusz/Downloads/ACCOUNTS-HISTORY_2708080_20191017_145530_10038213.csv",
+		"/Users/janusz/go/src/github.com/janexpl/CoursesList/templates/courses/create.gohtml",
+		"/Users/janusz/go/src/github.com/janexpl/kancelaria/content/oferta/prawo-cywilne.md",
+		"/Users/janusz/go/src/github.com/janexpl/kancelaria/data/about2.yml",
+		"/Users/janusz/go/src/github.com/janexpl/kancelaria/config.toml",
+		"/Users/janusz/go/src/github.com/janexpl/kancelaria/themes/meghna-hugo/layouts/partials/seo_schema.html",
+		"/Users/janusz/go/src/github.com/janexpl/kancelaria/themes/meghna-hugo/layouts/partials/head.html",
+		"/Users/janusz/go/src/github.com/janexpl/kancelaria/content/oferta/prawo-karne.md",
+		"/Users/janusz/go/src/github.com/janexpl/kancelaria/content/oferta/prawo-rodzinne.md",
+		"/Users/janusz/Downloads/5-6AbstractListModelDemo/InputDialog.qml",
+		"/Users/janusz/Desktop/wózki_pytania i odpowiedzi/Pytania.lyx",
+		"/Users/janusz/Library/Application Support/Sublime Text 3/Packages/User/GoSublime.sublime-settings",
+		"/Users/janusz/go/src/github.com/janexpl/CoursesList/main.go",
+		"/Users/janusz/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/src/margo/margo.go",
+		"/Users/janusz/Downloads/5-3ObjectListModelDemo/main.qml",
+		"/Users/janusz/Library/Application Support/Sublime Text 3/Packages/GoSublime/CHANGELOG.md",
+		"/Users/janusz/Library/Application Support/Sublime Text 3/Packages/SublimeGDB/SublimeGDB.sublime-settings",
+		"/Users/janusz/Library/Application Support/Sublime Text 3/Packages/User/golang.sublime-settings",
+		"/Users/janusz/Development/Projects/mailer-api/crow_all.h",
+		"/Users/janusz/Development/Projects/mailer-api/main.cpp"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 9,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "PKOcsv2mt940.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1631,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								124,
+								124
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"auto_complete": true,
+							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1923,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1923,
+								1923
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"default_dir": "/Users/janusz/Development/Projects/PKOcsv2mt940",
+							"draw_centered": true,
+							"gutter": false,
+							"line_numbers": false,
+							"rulers":
+							[
+							],
+							"syntax": "Packages/CMakeBuilder/Syntax/Diagnosis.sublime-syntax",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2157,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2157,
+								2157
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"default_dir": "/Users/janusz/Development/Projects/PKOcsv2mt940",
+							"draw_centered": true,
+							"gutter": false,
+							"line_numbers": false,
+							"rulers":
+							[
+							],
+							"syntax": "Packages/CMakeBuilder/Syntax/Diagnosis.sublime-syntax",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "CMakeLists.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 440,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								440,
+								440
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"syntax": "Packages/CMake/CMake.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "include/CsvReader.hpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 603,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								602,
+								602
+							]
+						],
+						"settings":
+						{
+							"SL.148.region_keys":
+							[
+								"SL.clang++.Highlights.|88e05245464025fc11a3c4bdd40e8835a1ca2441a211e504ec234b05529d654d|region.redish markup.error.sublime_linter|32",
+								"SL.clang++.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"sublime_linter.protected_regions"
+							],
+							"SL.17.region_keys":
+							[
+								"SL.clang++.Highlights.|88e05245464025fc11a3c4bdd40e8835a1ca2441a211e504ec234b05529d654d|region.redish markup.error.sublime_linter|32",
+								"SL.clang++.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"sublime_linter.protected_regions"
+							],
+							"apply_syntax_touched": true,
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "CsvReader.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2648,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								489,
+								489
+							]
+						],
+						"settings":
+						{
+							"SL.128.region_keys":
+							[
+								"SL.clang++.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"sublime_linter.protected_regions",
+								"SL.clang++.Highlights.|75cb59cf162ef5c796db632ed9ace69c676823a3a5e042d6e4fe354f171cac00|region.redish markup.error.sublime_linter|32"
+							],
+							"apply_syntax_touched": true,
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "Mt940.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4146,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								705,
+								705
+							]
+						],
+						"settings":
+						{
+							"SL.188.region_keys":
+							[
+								"SL.clang++.Highlights.|8f089c66554982805fc37f169e1ae135117161b8331bc4800f9c9b8c1a29d149|region.yellowish markup.warning.sublime_linter|32",
+								"SL.clang++.Highlights.|b32f11070c546bc4239d00e7473a1357371cea952419f5100630d9d341467bee|region.redish markup.error.sublime_linter|32",
+								"SL.clang++.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"sublime_linter.protected_regions",
+								"SL.clang++.Gutter.|region.yellowish markup.warning.sublime_linter|dot",
+								"SL.clang++.Highlights.|f5eb51297cfc5dfafb2f07f0b324ab03f5d105a2296ab83182ec78cf85bc73a0|region.yellowish markup.warning.sublime_linter|32"
+							],
+							"apply_syntax_touched": true,
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "include/csvfields.hpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 614,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								132,
+								132
+							]
+						],
+						"settings":
+						{
+							"SL.134.region_keys":
+							[
+								"SL.clang++.Highlights.|04bc38198edefe85a3d220d870d9d47a3dda5cc61dc6459f87d3a8414b4992c9|region.yellowish markup.warning.sublime_linter|32",
+								"SL.clang++.Highlights.|afd3cd20170640d115aff7c9083c3deb5d4b6d0fa73e4c7f12093ca26502d351|region.yellowish markup.warning.sublime_linter|32",
+								"SL.clang++.Highlights.|ebab16a8051d1fd323968cff343c448ea1728b00a4277a71e1f1cbc6cf12a166|region.yellowish markup.warning.sublime_linter|32",
+								"SL.clang++.Highlights.|008cc352e33b453132f7fb0005bdf6d934db2a4e725bcd7d86f9f7445cf75fe6|region.yellowish markup.warning.sublime_linter|32",
+								"SL.clang++.Highlights.|f31019bfe836ad14fe3d9ccdada933a2d9a02c7bc4bddaee07c1da004980e1ad|region.yellowish markup.warning.sublime_linter|32",
+								"SL.clang++.Highlights.|098c24aba4060faf2a26fc8bb55459602dad9fcd4d721049816dfac7f2aff5ec|region.yellowish markup.warning.sublime_linter|32",
+								"SL.clang++.Gutter.|region.yellowish markup.warning.sublime_linter|dot",
+								"SL.clang++.Highlights.|ed584cd746600d0bd55d061404fe673d8d0ffb8f6c832d4d78ae54b9aa2a1f74|region.yellowish markup.warning.sublime_linter|32",
+								"SL.clang++.Highlights.|75d0cbc4861477148651ba82e157c53655f3c0519da4a93bc2c8da93c5c7ac8b|region.yellowish markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.clang++.Highlights.|7d0454f4d122cf2ab471e9939bae4f38f6f55dd26d4190db75cbb8651f71d1d1|region.yellowish markup.warning.sublime_linter|32",
+								"SL.clang++.Highlights.|87158ef2be27fba240d319af4bc356b2c26d5ce2ba57ff8f9dd28bbee7f0cfd5|region.yellowish markup.warning.sublime_linter|32",
+								"SL.clang++.Highlights.|09d99566b68dfd95d98d15d90640d61cee526b046402ea187bbfe72d1c28d117|region.yellowish markup.warning.sublime_linter|32",
+								"SL.clang++.Highlights.|8f19454a225f547d3aec0237b1b4e16e6f331de0cf6e69814ffc55c2a1df228d|region.yellowish markup.warning.sublime_linter|32",
+								"SL.clang++.Highlights.|a5ae5887bad1b1245d2e0f336221e6842d83be965cd1d7f75905e91bc2c52ef1|region.yellowish markup.warning.sublime_linter|32",
+								"SL.clang++.Highlights.|967d953596278a67a703f30d2daadc77e30f98217e8d101159139a704efc2d2c|region.yellowish markup.warning.sublime_linter|32",
+								"SL.clang++.Highlights.|98ec668f2b0705c34305ca2ae15849c9bbc44cbcd93fc53b5f89128ebd2a86a7|region.yellowish markup.warning.sublime_linter|32",
+								"SL.clang++.Highlights.|0e119693a144335bc32450d4ef2feaee4413cc480f2d00b9a88443616f96a4d6|region.yellowish markup.warning.sublime_linter|32",
+								"SL.clang++.Highlights.|eb640b93d287041f231968fa8f9e420cf32278e581eb040dab95f1fbada249ae|region.yellowish markup.warning.sublime_linter|32"
+							],
+							"apply_syntax_touched": true,
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "csv2mt940.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 353,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1,
+								1
+							]
+						],
+						"settings":
+						{
+							"SL.147.region_keys":
+							[
+								"SL.clang++.Highlights.|91e35780aed6541837110f99805135a2ad3160c97e2277f9f13372f83d6d21f4|region.redish markup.error.sublime_linter|32",
+								"SL.clang++.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"sublime_linter.protected_regions"
+							],
+							"apply_syntax_touched": true,
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "include/CsvRow.hpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 456,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								456,
+								456
+							]
+						],
+						"settings":
+						{
+							"SL.22.region_keys":
+							[
+								"SL.clang++.Gutter.|region.yellowish markup.warning.sublime_linter|dot",
+								"SL.clang++.Highlights.|77ec3e47aa95133c91b474d7c0971013d37dc12b3581b760a8b977c1143d5de2|region.yellowish markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions"
+							],
+							"SL.253.region_keys":
+							[
+								"SL.clang++.Highlights.|77ec3e47aa95133c91b474d7c0971013d37dc12b3581b760a8b977c1143d5de2|region.yellowish markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.clang++.Gutter.|region.yellowish markup.warning.sublime_linter|dot"
+							],
+							"apply_syntax_touched": true,
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1814,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1814,
+								1814
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"default_dir": "/Users/janusz/Development/Projects/PKOcsv2mt940",
+							"draw_centered": true,
+							"gutter": false,
+							"line_numbers": false,
+							"rulers":
+							[
+							],
+							"syntax": "Packages/CMakeBuilder/Syntax/Diagnosis.sublime-syntax",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 503,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								503,
+								503
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"default_dir": "/Users/janusz/Development/Projects/PKOcsv2mt940",
+							"draw_centered": true,
+							"gutter": false,
+							"line_numbers": false,
+							"rulers":
+							[
+							],
+							"syntax": "Packages/CMakeBuilder/Syntax/Diagnosis.sublime-syntax",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o://9o":
+	{
+		"height": 108.0
+	},
+	"output.GoSublime/HUD":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter":
+	{
+		"height": 109.0
+	},
+	"output.exec":
+	{
+		"height": 75.0
+	},
+	"output.files_to_be_deleted":
+	{
+		"height": 109.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.golang_build":
+	{
+		"height": 109.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "PKOcsv2mt940 (OSX)",
+	"project": "PKOcsv2mt940.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"main",
+				"main.cpp"
+			],
+			[
+				"ema",
+				"email.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 244.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

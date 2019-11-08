@@ -1,0 +1,88 @@
+{
+	"build_systems":
+	[
+		{
+			"file_regex": "(.+[^:]):(\\d+):(\\d+): (?:fatal )?((?:error|warning): .+)$",
+			"name": "PKOcsv2mt940 (OSX)",
+			"shell_cmd": "make -j12",
+			"syntax": "Packages/CMakeBuilder/Syntax/Make.sublime-syntax",
+			"variants":
+			[
+				{
+					"name": "clean",
+					"shell_cmd": "make -j12 clean"
+				},
+				{
+					"name": "rebuild_cache",
+					"shell_cmd": "make -j12 rebuild_cache"
+				},
+				{
+					"name": "PKOcsv2mt940",
+					"shell_cmd": "make -j12 PKOcsv2mt940"
+				},
+				{
+					"name": "CsvReader.o",
+					"shell_cmd": "make -j12 CsvReader.o"
+				},
+				{
+					"name": "CsvReader.i",
+					"shell_cmd": "make -j12 CsvReader.i"
+				},
+				{
+					"name": "CsvReader.s",
+					"shell_cmd": "make -j12 CsvReader.s"
+				},
+				{
+					"name": "CsvRow.o",
+					"shell_cmd": "make -j12 CsvRow.o"
+				},
+				{
+					"name": "CsvRow.i",
+					"shell_cmd": "make -j12 CsvRow.i"
+				},
+				{
+					"name": "CsvRow.s",
+					"shell_cmd": "make -j12 CsvRow.s"
+				},
+				{
+					"name": "Mt940.o",
+					"shell_cmd": "make -j12 Mt940.o"
+				},
+				{
+					"name": "Mt940.i",
+					"shell_cmd": "make -j12 Mt940.i"
+				},
+				{
+					"name": "Mt940.s",
+					"shell_cmd": "make -j12 Mt940.s"
+				},
+				{
+					"name": "csv2mt940.o",
+					"shell_cmd": "make -j12 csv2mt940.o"
+				},
+				{
+					"name": "csv2mt940.i",
+					"shell_cmd": "make -j12 csv2mt940.i"
+				},
+				{
+					"name": "csv2mt940.s",
+					"shell_cmd": "make -j12 csv2mt940.s"
+				}
+			],
+			"working_dir": "${project_path}/build"
+		}
+	],
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+	"settings":
+	{
+		"cmake":
+		{
+			"build_folder": "${project_path}/build"
+		}
+	}
+}

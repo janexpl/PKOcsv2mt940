@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libPKOcsv2mt940.a  CMakeFiles/PKOcsv2mt940.dir/csv2mt940.cpp.o CMakeFiles/PKOcsv2mt940.dir/CsvReader.cpp.o CMakeFiles/PKOcsv2mt940.dir/CsvRow.cpp.o CMakeFiles/PKOcsv2mt940.dir/Mt940.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libPKOcsv2mt940.a

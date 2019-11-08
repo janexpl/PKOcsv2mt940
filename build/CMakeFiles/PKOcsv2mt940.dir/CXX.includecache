@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/janusz/Development/Projects/PKOcsv2mt940/Mt940.cpp
+time.h
+-
+include/Mt940.hpp
+/Users/janusz/Development/Projects/PKOcsv2mt940/include/Mt940.hpp
+
+/Users/janusz/Development/Projects/PKOcsv2mt940/include/Mt940.hpp
+map
+-
+iostream
+-
+vector
+-
+fstream
+-
+algorithm
+-
+sstream
+-
+cmath
+-
+csvfields.hpp
+/Users/janusz/Development/Projects/PKOcsv2mt940/include/csvfields.hpp
+
+/Users/janusz/Development/Projects/PKOcsv2mt940/include/csvfields.hpp
+iostream
+-
+

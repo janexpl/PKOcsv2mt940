@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/janusz/Development/Projects/PKOcsv2mt940/CsvReader.cpp
+vector
+-
+sstream
+-
+include/CsvReader.hpp
+/Users/janusz/Development/Projects/PKOcsv2mt940/include/CsvReader.hpp
+
+/Users/janusz/Development/Projects/PKOcsv2mt940/include/CsvReader.hpp
+iterator
+-
+iostream
+-
+fstream
+-
+sstream
+-
+vector
+-
+string
+-
+CsvRow.hpp
+/Users/janusz/Development/Projects/PKOcsv2mt940/include/CsvRow.hpp
+csvfields.hpp
+/Users/janusz/Development/Projects/PKOcsv2mt940/include/csvfields.hpp
+
+/Users/janusz/Development/Projects/PKOcsv2mt940/include/CsvRow.hpp
+iostream
+-
+vector
+-
+
+/Users/janusz/Development/Projects/PKOcsv2mt940/include/csvfields.hpp
+iostream
+-
+
